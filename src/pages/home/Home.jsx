@@ -55,7 +55,7 @@ function Home() {
             </p>
           </div>
           <div className="item">
-            <video src="./img/video.mp4" controls />
+            <video src="./img/ambiente.mp4" controls />
           </div>
         </div>
       </div>
